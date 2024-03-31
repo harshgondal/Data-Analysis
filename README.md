@@ -1,1 +1,3 @@
-# Data-Analysis
+Predictive Model for Potato Crop Health Using Water Quality Attributes
+
+Potato cultivation faces multifaceted challenges influenced by environmental factors, with water quality playing a pivotal role in determining crop health. Traditional agricultural practices often lack precision in addressing these challenges, resulting in suboptimal yields, resource inefficiencies, and increased environmental impact. To overcome these limitations, there is a need for a predictive model powered by machine learning techniques that can leverage water quality attributes to forecast and manage potato crop health more effectively.
